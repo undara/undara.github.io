@@ -1,1 +1,5 @@
 Hello! I am a postdoc at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at [Stanford Graduate School of Business](https://www.gsb.stanford.edu). My main research interests are in econometrics and I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/) advised by [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other committee members were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
+
+## Working papers
+
+{{% staticref "Byambadalai_JMP.pdf" %}}**Identification and Inference for Welfare Gains without Unconfoundedness (Job Market Paper)**{{% /staticref %}} 
