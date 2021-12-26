@@ -4,4 +4,4 @@ You can reach me at [undralb@stanford.edu](mailto:undralb@stanford.edu).
 
 ### Working papers
 
-{{% staticref "Byambadalai_JMP.pdf" %}}**Identification and Inference for Welfare Gains without Unconfoundedness (Job Market Paper)**{{% /staticref %}} 
+[**Identification and Inference for Welfare Gains without Unconfoundedness (Job Market Paper)**](Byambadalai_JMP.pdf)
