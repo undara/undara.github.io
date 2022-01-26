@@ -1,6 +1,9 @@
 title: " "
 logo: /img/avatar.jpg
-description: Undral Byambadalai \n Postdoctoral Fellow, Stanford University
+description: >-
+Undral Byambadalai
+
+Postdoctoral Fellow, Stanford University
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
