@@ -19,5 +19,5 @@ You can find more information in my [CV](https://undara.github.io/docs/Byambadal
 [Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism](https://undara.github.io/docs/preferences-market_March2022.pdf)
 (with [Ching-to Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/), _submitted_)
 
-**Applying Contextual Bandits in a Survey Experiment on Charitable Giving: Tradeoffs Between Maximizing Within-Experiment Outcomes and Policy Learning** (with Susan Athey, Vitor Hadad, Sanath Krishnamurthy, Weiwen Leung and Joseph Jay Williams, _draft coming soon_)
+**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** (with Susan Athey, Vitor Hadad, Sanath Krishnamurthy, Weiwen Leung and Joseph Jay Williams, _draft coming soon_)
 
