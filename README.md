@@ -13,11 +13,18 @@ You can find more information in my [CV](https://undara.github.io/docs/Byambadal
 
      
 ### Research papers
+**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** ([arXiv](https://arxiv.org/abs/2211.12004))
 
-[Identification and Inference for Welfare Gains without Unconfoundedness](https://arxiv.org/pdf/2207.04314.pdf) (Job Market Paper)
+with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), Weiwen Leung and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
 
-[Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism](https://undara.github.io/docs/preferences-market_March2022.pdf)
-(with [Ching-to Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/), _submitted_)
 
-**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** (with Susan Athey, Vitor Hadad, Sanath Krishnamurthy, Weiwen Leung and Joseph Jay Williams, _draft coming soon_)
+**Identification and Inference for Welfare Gains without Unconfoundedness** ([arXiv](https://arxiv.org/abs/2207.04314))
+
+
+
+**Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** ([PDF](https://undara.github.io/docs/preferences-market_March2022.pdf))
+
+with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/)
+
+
 
