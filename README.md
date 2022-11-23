@@ -13,8 +13,7 @@ You can find more information in my [CV](https://undara.github.io/docs/Byambadal
 
      
 ### Research papers
-**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** [[arXiv](https://arxiv.org/abs/2211.12004)]
-
+**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** [[arXiv](https://arxiv.org/abs/2211.12004)] 
 with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), Weiwen Leung and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
 
 
@@ -23,7 +22,6 @@ with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://hal
 
 
 **Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[PDF](https://undara.github.io/docs/preferences-market_March2022.pdf)]
-
 with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/)
 
 
