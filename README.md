@@ -2,7 +2,7 @@ Hello!
 
 I am a postdoc at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu). 
 
-My research interests are in both theoretical and applied econometrics, with a particular focus on causal inference, experimental design and machine learning. I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
+My research interests are at the intersection of economics and data science. I am particularly interested in the econometrics of policy analysis and the applications of machine learning-based causal inference methods in policy-relevant questions. My current postdoctoral research involves designing experiments and analyzing donation data with a focus on personalization to understand motivations around charitable giving and to direct donations to impactful organizations. I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
 
 You can find more information in my [CV](https://undara.github.io/docs/Byambadalai_CV.pdf) and contact me at [undralb@stanford.edu](mailto:undralb@stanford.edu).
 
