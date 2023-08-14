@@ -1,8 +1,8 @@
 Hello! 
 
-I am a Research Scientist at [AI Lab, CyberAgent, Inc.](https://cyberagent.ai/ailab/research/) My research interests are at the intersection of econometrics, machine learning and economics. 
+I am a research scientist at [AI Lab, CyberAgent, Inc.](https://cyberagent.ai/ailab/research/) My research interests are at the intersection of econometrics, machine learning and economics. 
 
-Previously, I was a Postdoctoral Fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu). I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
+Previously, I was a postdoctoral fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu). I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
 
 You can find more information in my [CV](https://undara.github.io/docs/Byambadalai_CV.pdf) and contact me at [undral_byambadalai@cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp).
 
