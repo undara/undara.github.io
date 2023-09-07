@@ -4,16 +4,18 @@ I am a research scientist at [AI Lab, CyberAgent, Inc](https://cyberagent.ai/ail
 
 Previously, I was a postdoctoral fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu). I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
 
-You can find more information in my [CV](https://undara.github.io/docs/Byambadalai_CV.pdf) and contact me at [undral_byambadalai@cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp).
+### Contact
+Email: [undral_byambadalai@cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp)
 
-[Google Scholar](https://scholar.google.com/citations?user=mCFLjwEAAAAJ&hl=en&authuser=1)
+Address: [22F Shibuya Scramble Square 2-24-12 Shibuya Shibuya-Ku, Tokyo 150-6121](https://www.cyberagent.co.jp/en/corporate/access/shibuyascramblesquare/)
 
-[LinkedIn](https://www.linkedin.com/in/undralbyambadalai/)
+
+Here are links to my other profiles: [Google Scholar](https://scholar.google.com/citations?user=mCFLjwEAAAAJ&hl=en&authuser=1), [LinkedIn](https://www.linkedin.com/in/undralbyambadalai/)
 
 
      
 ### Research papers
-**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** [[arXiv](https://arxiv.org/abs/2211.12004)] 
+**Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** [[arXiv](https://arxiv.org/abs/2211.12004)] [[slides](https://undara.github.io/contextual_charitable_giving_slides.pdf)]
 with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), Weiwen Leung and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
 
 
@@ -22,7 +24,7 @@ with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://hal
 
 
 **Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[PDF](https://undara.github.io/docs/preferences-market_March2022.pdf)]
-with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) (R&R, _Journal of Health Economics_)
+with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) (forthcoming, _Journal of Health Economics_)
 
 
 
