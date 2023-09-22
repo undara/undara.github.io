@@ -25,8 +25,8 @@ with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://hal
 
 
 
-**Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[PDF](https://undara.github.io/docs/preferences-market_March2022.pdf)]
-with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) (forthcoming, _Journal of Health Economics_)
-
+**Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[paper](https://authors.elsevier.com/c/1hnvxc7LG8VyJ)]
+with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) 
+_Journal of Health Economics_, Volume 92, December 2023, 102808
 
 
