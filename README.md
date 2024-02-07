@@ -12,7 +12,7 @@ Email: [undral_byambadalai@cyberagent.co.jp](mailto:undral_byambadalai@cyberagen
 Address: [22F Shibuya Scramble Square 2-24-12 Shibuya Shibuya-Ku, Tokyo 150-6121](https://www.cyberagent.co.jp/en/corporate/access/shibuyascramblesquare/)
 
 
-Here are links to my other profiles: [Google Scholar](https://scholar.google.com/citations?user=mCFLjwEAAAAJ&hl=en&authuser=1), [LinkedIn](https://www.linkedin.com/in/undralbyambadalai/)
+Here are links to my other profiles: [Google Scholar](https://scholar.google.com/citations?user=Y1ghEW4AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/undralbyambadalai/)
 
 
      
