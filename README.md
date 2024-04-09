@@ -16,8 +16,13 @@ Here are links to my other profiles: [Google Scholar](https://scholar.google.com
 
      
 ### Research papers
+
+**The Heterogeneous Impact of Changes in Default Gift Amounts on Fundraising** [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785704)]
+with [Susan Athey](https://athey.people.stanford.edu), [Matias Cersosimo](https://scholar.google.com/citations?user=nS9zWgMAAAAJ&hl=en&oi=ao), [Kristine Koutout](https://www.kristinekoutout.com/) and [Shanjukta Nath](https://www.shanjuktanath.com/) 
+
+
 **Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning** [[arXiv](https://arxiv.org/abs/2211.12004)] [[slides](https://undara.github.io/contextual_charitable_giving_slides.pdf)]
-with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), Weiwen Leung and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
+with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), [Weiwen Leung](https://scholar.google.com/citations?user=OYZ2_v0AAAAJ&hl=en) and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
 
 
 **Identification and Inference for Welfare Gains without Unconfoundedness** [[arXiv](https://arxiv.org/abs/2207.04314)]
