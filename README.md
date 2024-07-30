@@ -19,9 +19,9 @@ Here are links to my other profiles: [Google Scholar](https://scholar.google.com
      
 ### Publications
 
-**Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[paper](https://openreview.net/pdf?id=RDofzHLuX4)]
+**Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[arXiv](https://arxiv.org/abs/2407.16037)] [[R code](https://github.com/CyberAgentAILab/dte-ml-adjustment)] [[Python package](https://github.com/CyberAgentAILab/python-dte-adjustment)]
 with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
-_International Conference on Machine Learning_, 2024
+_International Conference on Machine Learning (ICML)_, 2024
 
 
 **Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000851)]
@@ -30,7 +30,7 @@ _Journal of Health Economics_, Volume 92, December 2023, 102808
 
 ### Working papers
 
-**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [arXiv]
+**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)]
 with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
 
 **The Heterogeneous Impact of Changes in Default Gift Amounts on Fundraising** [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785704)]
