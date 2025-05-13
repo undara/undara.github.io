@@ -22,6 +22,14 @@ Distributional Treatment Effects and Regression Adjustment
 
      
 ### Publications
+**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)] [[R code](https://github.com/CyberAgentAILab/dte-ra)]
+with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
+_Econometric Reviews_, forthcoming
+
+
+**On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**
+with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
+_International Conference on Machine Learning (ICML)_, 2025
 
 **Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[arXiv](https://arxiv.org/abs/2407.16037)] [[R code](https://github.com/CyberAgentAILab/dte-ml-adjustment)] 
 with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
@@ -33,9 +41,6 @@ with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.goo
 _Journal of Health Economics_, Volume 92, December 2023, 102808
 
 ### Working papers
-
-**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)] [[R code](https://github.com/CyberAgentAILab/dte-ra)]
-with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
 
 **The Heterogeneous Impact of Changes in Default Gift Amounts on Fundraising** [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785704)]
 with [Susan Athey](https://athey.people.stanford.edu), [Matias Cersosimo](https://scholar.google.com/citations?user=nS9zWgMAAAAJ&hl=en&oi=ao), [Kristine Koutout](https://www.kristinekoutout.com/) and [Shanjukta Nath](https://www.shanjuktanath.com/) 
