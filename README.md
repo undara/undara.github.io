@@ -20,25 +20,6 @@ Here are links to my other profiles: [Google Scholar](https://scholar.google.com
 Distributional Treatment Effects and Regression Adjustment 
 [[PyPI](https://pypi.org/project/dte-adj/)] [[GitHub](https://github.com/CyberAgentAILab/python-dte-adjustment)]
 
-     
-### Publications
-**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)] [[R code](https://github.com/CyberAgentAILab/dte-ra)]
-with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
-_Econometric Reviews_, forthcoming
-
-
-**On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**
-with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
-_International Conference on Machine Learning (ICML)_, 2025
-
-**Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[arXiv](https://arxiv.org/abs/2407.16037)] [[R code](https://github.com/CyberAgentAILab/dte-ml-adjustment)] 
-with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
-_International Conference on Machine Learning (ICML)_, 2024
-
-
-**Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000851)]
-with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) 
-_Journal of Health Economics_, Volume 92, December 2023, 102808
 
 ### Working papers
 
@@ -49,6 +30,26 @@ with [Susan Athey](https://athey.people.stanford.edu), [Matias Cersosimo](https:
 with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://halflearned.com), [Sanath Krishnamurthy](https://sites.google.com/view/sanath-kumar/), [Weiwen Leung](https://scholar.google.com/citations?user=OYZ2_v0AAAAJ&hl=en) and [Joseph Jay Williams](http://www.josephjaywilliams.com) 
 
 **Identification and Inference for Welfare Gains without Unconfoundedness** [[arXiv](https://arxiv.org/abs/2207.04314)]
+
+### Publications
+**Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)] [[R code](https://github.com/CyberAgentAILab/dte-ra)]
+with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
+_Econometric Reviews_, forthcoming
+
+
+**On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**
+with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/) [[arXiv](https://arxiv.org/abs/2506.05945)] [[Python/R code](https://github.com/CyberAgentAILab/dte_car)]
+_International Conference on Machine Learning (ICML)_, 2025
+
+**Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[paper](https://proceedings.mlr.press/v235/byambadalai24a.html)] [[arXiv](https://arxiv.org/abs/2407.16037)] [[R code](https://github.com/CyberAgentAILab/dte-ml-adjustment)] 
+with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
+_International Conference on Machine Learning (ICML)_, 2024
+
+
+**Changing Preferences: An Experiment and Estimation of Market-Incentive Effects on Altruism** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167629623000851)] [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3431002)]
+with [Albert Ma](http://people.bu.edu/ma/) and [Daniel Wiesen](https://sites.google.com/site/danielwiesen1/) 
+_Journal of Health Economics_, Volume 92, December 2023, 102808
+
 
 
 
