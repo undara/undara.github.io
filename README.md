@@ -22,6 +22,9 @@ Distributional Treatment Effects and Regression Adjustment
 
 
 ### Working papers
+**Efficient and Scalable Estimation of Distributional Treatment Effects with Multi-Task Neural Networks** [[arxiv](https://arxiv.org/abs/2507.07738)]
+with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Shingo Uto
+
 
 **The Heterogeneous Impact of Changes in Default Gift Amounts on Fundraising** [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785704)]
 with [Susan Athey](https://athey.people.stanford.edu), [Matias Cersosimo](https://scholar.google.com/citations?user=nS9zWgMAAAAJ&hl=en&oi=ao), [Kristine Koutout](https://www.kristinekoutout.com/) and [Shanjukta Nath](https://www.shanjuktanath.com/) 
