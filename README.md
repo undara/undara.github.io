@@ -8,7 +8,7 @@ Previously, I was a postdoctoral fellow at the [Golub Capital Social Impact Lab]
 
 
 ### Contact
-Email: [undral_byambadalai@cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp)
+Email: [undral_byambadalai`at`cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp), [undral21`at`gmail.com](mailto:undral21@gmail.com)
 
 Address: [22F Shibuya Scramble Square 2-24-12 Shibuya Shibuya-Ku, Tokyo 150-6121](https://www.cyberagent.co.jp/en/corporate/access/shibuyascramblesquare/)
 
