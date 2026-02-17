@@ -1,16 +1,16 @@
 Hello! 
 
-I am a research scientist at [AI Lab, CyberAgent, Inc](https://cyberagent.ai/ailab/research/). My research interests lie at the intersection of econometrics, machine learning and economics. 
+I am a senior lecturer (assistant professor) in the [Department of Economics](https://dep.num.edu.mn/econ/) at the [National University of Mongolia](https://portal.num.edu.mn/en) and a research fellow at [The Economic Institute of the National University of Mongolia](http://ei.num.edu.mn/). I am also a research affiliate at [AI Lab, CyberAgent, Inc](https://cyberagent.ai/ailab/research/) in Tokyo, Japan.
 
-Previously, I was a postdoctoral fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at the [Stanford Graduate School of Business](https://www.gsb.stanford.edu). I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
+My research interests lie at the intersection of econometrics, machine learning and economics. 
+
+Previously, I was a research scientist at [AI Lab, CyberAgent, Inc](https://cyberagent.ai/ailab/research/). Prior to that, I was a postdoctoral fellow at the [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/sil) led by [Susan Athey](https://athey.people.stanford.edu) at [Stanford Graduate School of Business](https://www.gsb.stanford.edu). I received a PhD in Economics from [Boston University](https://www.bu.edu/econ/), where my main advisor was [Hiroaki Kaido](http://people.bu.edu/hkaido/). My other advisors were [Iván Fernández-Val](https://sites.bu.edu/ivanf/), [Ching-to Albert Ma](https://people.bu.edu/ma/) and [Jean-Jacques Forneron](http://jjforneron.com).
 
 [Here](https://undara.github.io/docs/Byambadalai_CV.pdf) is my CV.
 
 
 ### Contact
-Email: [undral_byambadalai`at`cyberagent.co.jp](mailto:undral_byambadalai@cyberagent.co.jp), [undral21`at`gmail.com](mailto:undral21@gmail.com)
-
-Address: [22F Shibuya Scramble Square 2-24-12 Shibuya Shibuya-Ku, Tokyo 150-6121](https://www.cyberagent.co.jp/en/corporate/access/shibuyascramblesquare/)
+Email: [undral_b@num.edu.mn](mailto:undral_b@num.edu.mn), [undral21@gmail.com](mailto:undral21@gmail.com)
 
 
 Here are links to my other profiles: [Google Scholar](https://scholar.google.com/citations?user=Y1ghEW4AAAAJ&hl=en&oi=ao), [LinkedIn](https://www.linkedin.com/in/undralbyambadalai/)
@@ -23,7 +23,7 @@ Distributional Treatment Effects and Regression Adjustment
 
 ### Working papers
 **Efficient and Scalable Estimation of Distributional Treatment Effects with Multi-Task Neural Networks** [[arxiv](https://arxiv.org/abs/2507.07738)]
-with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Shingo Uto
+with Tomu Hirata, [Tatsushi Oka](https://oka-econ.github.io/), [Shota Yasui](https://yasui-salmon.github.io/) and Shingo Uto
 
 
 **The Heterogeneous Impact of Changes in Default Gift Amounts on Fundraising** [[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785704)]
@@ -35,17 +35,26 @@ with [Susan Athey](https://athey.people.stanford.edu), [Vitor Hadad](https://hal
 **Identification and Inference for Welfare Gains without Unconfoundedness** [[arXiv](https://arxiv.org/abs/2207.04314)]
 
 ### Publications
+**Distributional treatment effects of content promotion: evidence from an ABEMA field experiment** [[arXiv](https://arxiv.org/abs/2601.11185)]
+with [Shota Yasui](https://yasui-salmon.github.io/), 
+[Tatsushi Oka](https://oka-econ.github.io/), and Yuki Oishi
+_The Japanese Economic Review_, 2026
+
 **Regression Adjustment for Estimating Distributional Treatment Effects in Randomized Controlled Trials** [[arXiv](https://arxiv.org/abs/2407.14074)] [[R code](https://github.com/CyberAgentAILab/dte-ra)]
-with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
-_Econometric Reviews_, forthcoming
+with [Tatsushi Oka](https://oka-econ.github.io/), [Shota Yasui](https://yasui-salmon.github.io/) and Yuta Hayakawa
+_Econometric Reviews_, 2026
+
+**Beyond the Average: Distributional Causal Inference under Imperfect Compliance** [[arXiv](https://arxiv.org/abs/2509.15594)] [[Python code](https://github.com/CyberAgentAILab/ldte)]
+with Tomu Hirata, [Tatsushi Oka](https://oka-econ.github.io/) and [Shota Yasui](https://yasui-salmon.github.io/)
+_Neural Information Processing Systems (NeurIPS)_, 2025
 
 
 **On Efficient Estimation of Distributional Treatment Effects under Covariate-Adaptive Randomization**
-with Tomu Hirata, [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/) [[arXiv](https://arxiv.org/abs/2506.05945)] [[Python/R code](https://github.com/CyberAgentAILab/dte_car)]
+with Tomu Hirata, [Tatsushi Oka](https://oka-econ.github.io/) and [Shota Yasui](https://yasui-salmon.github.io/) [[arXiv](https://arxiv.org/abs/2506.05945)] [[Python/R code](https://github.com/CyberAgentAILab/dte_car)]
 _International Conference on Machine Learning (ICML)_, 2025
 
 **Estimating Distributional Treatment Effects in Randomized Experiments: Machine Learning for Variance Reduction** [[paper](https://proceedings.mlr.press/v235/byambadalai24a.html)] [[arXiv](https://arxiv.org/abs/2407.16037)] [[R code](https://github.com/CyberAgentAILab/dte-ml-adjustment)] 
-with [Tatsushi Oka](https://sites.google.com/site/homepageoka/tatsushi-oka) and [Shota Yasui](https://yasui-salmon.github.io/)
+with [Tatsushi Oka](https://oka-econ.github.io/) and [Shota Yasui](https://yasui-salmon.github.io/)
 _International Conference on Machine Learning (ICML)_, 2024
 
 
